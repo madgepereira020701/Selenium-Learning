@@ -6,4 +6,7 @@ Contains my selenium project repositories.
   <li>
     Ecommerce website Demoblaze selenium tutorial: https://github.com/madgepereira020701/Demoblaze-Ecommerce-selenium-tutorial/tree/main
   </li>
+  <li>
+    OrangeHRM selenium tutorial to learn webtable automation: https://github.com/madgepereira020701/Orangehrm-Selenium-Webtables-Automation
+  </li>
 </ol>
